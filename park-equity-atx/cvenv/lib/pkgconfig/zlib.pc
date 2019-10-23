@@ -1,0 +1,13 @@
+prefix=/Users/Anna/Documents/School/Fall2019/SDS/Project/park-equity-atx/park-equity-atx/cvenv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+sharedlibdir=${libdir}
+includedir=${prefix}/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.11
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
