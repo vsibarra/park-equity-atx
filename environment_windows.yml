@@ -42,6 +42,7 @@ dependencies:
   - jupyter_client=5.3.4
   - jupyter_console=6.0.0
   - jupyter_core=4.6.0
+  - jupyterlab=1.0.2
   - kealib=1.4.7
   - kiwisolver=1.1.0
   - krb5=1.16.1
