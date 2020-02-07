@@ -127,4 +127,5 @@ dependencies:
 
 pip:
   - earthpy
+    - ipyleaflet
 prefix: /Users/Anna/opt/anaconda3/envs/park_env
