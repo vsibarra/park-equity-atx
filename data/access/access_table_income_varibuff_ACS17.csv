@@ -1,0 +1,292 @@
+,LOCATION_N,Total_Pop,"Less than $25,000","$25,000 to $49,999","$50,000 to $74,999","$75,000 to $99,999","$100,000 to $149,999","$150,000 or more",ASSET_SIZE,TotalPop_Served_norm,"Less than $25,000_norm","$25,000 to $49,999_norm","$50,000 to $74,999_norm","$75,000 to $99,999_norm","$100,000 to $149,999_norm","$150,000 or more_norm",Park_Name,Total Pop Served
+0,A.B. Dittmar Neighborhood Park,2632,27,90,53,30,36,16,12.69,20,2,7,4,2,2,1,A.B. Dittmar Neighborhood Park,256
+1,Adams-Hemphill Neighborhood Park,3107,580,225,139,101,15,86,9.31,123,62,24,14,10,1,9,Adams-Hemphill Neighborhood Park,1149
+2,Agave Neighborhood Park,1119,37,89,25,14,18,3,16.36,11,2,5,1,0,1,0,Agave Neighborhood Park,188
+3,Alamo Pocket Park,1201,10,12,13,3,12,3,1.82,31,5,6,7,1,6,2,Alamo Pocket Park,56
+4,Alderbrook Pocket Park,1484,20,46,44,20,29,5,1.9,87,10,24,23,10,15,2,Alderbrook Pocket Park,165
+5,Andrews School Park,965,11,16,11,5,10,4,3.27,18,3,5,3,1,3,1,Andrews School Park,60
+6,Archstone Pocket Park,1046,1,8,20,13,16,15,0.53,143,3,15,38,25,30,29,Archstone Pocket Park,76
+7,Armadillo Neighborhood Park,2541,107,89,83,46,52,19,3.046,131,35,29,27,15,17,6,Armadillo Neighborhood Park,399
+8,Astor Place Greenbelt,7321,600,499,342,262,204,126,1.442,1411,416,346,237,182,142,87,Astor Place Greenbelt,2035
+9,Auditorium Shores at Town Lake Metro Park,11189,342,328,390,260,440,603,48.57836784,48,7,6,8,5,9,12,Auditorium Shores at Town Lake Metro Park,2365
+10,Austin High Tennis Center,5147,38,33,40,34,45,54,3.22,76,11,10,12,10,14,17,Austin High Tennis Center,246
+11,Austin Recreation Center,5825,25,33,34,14,31,47,5.48733039,34,4,6,6,2,5,8,Austin Recreation Center,187
+12,Bailey Neighborhood Park,1331,35,25,24,8,22,46,2.299,71,15,11,10,3,9,20,Bailey Neighborhood Park,163
+13,Balcones District Park,6433,163,409,378,171,262,98,51.69,28,3,7,7,3,5,1,Balcones District Park,1484
+14,Barrington School Park,2457,23,43,12,8,10,10,8.02,13,2,5,1,1,1,1,Barrington School Park,109
+15,Barrow Nature Preserve,2167,42,101,75,106,78,216,7.5374,82,5,13,10,14,10,28,Barrow Nature Preserve,621
+16,Bartholomew District Park,4843,265,218,216,144,233,227,50.59388057,25,5,4,4,2,4,4,Bartholomew District Park,1305
+17,Barton Creek Greenbelt,25541,1299,1797,1917,1441,1948,2789,838.75934835,13,1,2,2,1,2,3,Barton Creek Greenbelt,11194
+18,Barton Creek Wilderness Park,11927,292,457,717,682,931,1833,1120.26484727,4,0,0,0,0,0,1,Barton Creek Wilderness Park,4913
+19,Barton Hills School Park,1771,8,24,14,14,18,23,4.76,21,1,5,3,3,3,5,Barton Hills School Park,104
+20,Battlebend Springs Neighborhood Park,1807,36,47,28,27,26,14,4.91,36,7,9,5,5,5,2,Battlebend Springs Neighborhood Park,179
+21,Bauerle Ranch at Slaughter Creek Greenbelt,14276,724,787,1008,1003,1516,955,322.59,18,2,2,3,3,4,2,Bauerle Ranch at Slaughter Creek Greenbelt,5996
+22,Bellingham Meadows Greenbelt,2535,78,110,181,177,257,133,22.3262,42,3,4,8,7,11,5,Bellingham Meadows Greenbelt,937
+23,Beverly S. Sheffield Northwest District Park,5645,156,141,113,139,255,303,31.14,35,5,4,3,4,8,9,Beverly S. Sheffield Northwest District Park,1109
+24,Big Stacy Neighborhood Park,1418,51,35,44,61,74,66,4.4178,75,11,7,10,13,16,15,Big Stacy Neighborhood Park,333
+25,Big Walnut Creek Nature Preserve,7510,22,44,38,9,15,6,47.9502,2,0,0,0,0,0,0,Big Walnut Creek Nature Preserve,137
+26,Blunn Creek Greenbelt,13076,1570,1487,1330,899,1344,1456,13.33355865,606,117,111,99,67,100,109,Blunn Creek Greenbelt,8088
+27,Blunn Creek Nature Preserve,5362,414,353,221,176,224,171,38.52,40,10,9,5,4,5,4,Blunn Creek Nature Preserve,1561
+28,Boggy Creek Greenbelt,10344,1776,1295,1045,585,901,659,48.830154,128,36,26,21,11,18,13,Boggy Creek Greenbelt,6263
+29,Bolm District Park,1267,49,29,85,59,36,26,68.162,4,0,0,1,0,0,0,Bolm District Park,286
+30,Brentwood Neighborhood Park,2283,68,70,34,23,70,68,9.25,36,7,7,3,2,7,7,Brentwood Neighborhood Park,337
+31,Brownie Neighborhood Park,2564,114,205,66,35,24,5,8.287244,54,13,24,8,4,2,0,Brownie Neighborhood Park,451
+32,Brush Square (O. Henry Museum),2521,8,9,11,9,22,43,1.752275,59,4,5,6,5,12,24,Brush Square (O. Henry Museum),104
+33,Brush Square Triangle,682,0,1,2,0,2,8,1.0,16,0,1,2,0,2,8,Brush Square Triangle,16
+34,Brushy Creek Greenbelt,8028,134,263,334,241,723,1109,51.470217,54,2,5,6,4,14,21,Brushy Creek Greenbelt,2807
+35,Bull Creek District Park,3432,38,65,114,63,112,223,47.3,13,0,1,2,1,2,4,Bull Creek District Park,617
+36,"Burnett ""Blondie"" Pharr Tennis Center",3039,51,37,48,25,41,56,8.45,30,6,4,5,3,4,6,"Burnett ""Blondie"" Pharr Tennis Center",260
+37,Buttermilk Branch Greenbelt,14054,2416,1830,840,467,433,243,4.00384587,1556,603,457,209,116,108,60,Buttermilk Branch Greenbelt,6231
+38,Buttermilk Neighborhood Park,3089,311,213,86,30,28,14,16.60250868,41,18,12,5,1,1,0,Buttermilk Neighborhood Park,685
+39,Caldwell Treaty Oak Park,2484,9,10,16,9,13,17,0.308085,253,32,33,52,31,45,58,Caldwell Treaty Oak Park,77
+40,Canyon Vista Pool,1488,0,1,0,2,3,16,0.47907723,52,1,2,1,5,6,33,Canyon Vista Pool,25
+41,Caswell Tennis Center,1731,218,54,28,5,23,21,3.06,115,71,17,9,1,7,7,Caswell Tennis Center,353
+42,Central Maintenance Complex at Town Lake Metro Park,3626,78,51,23,3,35,15,9.21592622,22,8,5,2,0,3,1,Central Maintenance Complex at Town Lake Metro Park,208
+43,Cherry Creek Neighborhood Park,2247,34,35,40,37,53,43,10.25,23,3,3,3,3,5,4,Cherry Creek Neighborhood Park,244
+44,Cherrywood Pocket Park,1468,3,16,12,11,21,12,0.516,151,7,32,24,22,41,23,Cherrywood Pocket Park,78
+45,Chestnut Pocket Park,643,6,12,9,13,16,8,0.6082,109,11,20,15,22,26,13,Chestnut Pocket Park,66
+46,Circle C Ranch on Slaughter Creek,16776,326,550,846,785,1545,1891,591.5715,10,0,0,1,1,2,3,Circle C Ranch on Slaughter Creek,5945
+47,City of Austin/YMCA North Austin Community Recreation Center,3125,245,209,81,45,17,16,6.997,88,35,29,11,6,2,2,City of Austin/YMCA North Austin Community Recreation Center,615
+48,Civitan Neighborhood Park,3050,102,46,31,17,15,9,7.12,31,14,6,4,2,2,1,Civitan Neighborhood Park,222
+49,Colony Park District Park,4175,250,363,236,72,84,6,91.79060585,11,2,3,2,0,0,0,Colony Park District Park,1013
+50,Colorado River Greenbelt,3431,111,80,135,107,54,28,8.475,61,13,9,15,12,6,3,Colorado River Greenbelt,517
+51,Colorado River Park WIldlife Sanctuary,4286,148,55,57,45,27,11,43.331,7,3,1,1,1,0,0,Colorado River Park WIldlife Sanctuary,344
+52,Colorado/Walnut Greenbelt,5699,106,162,162,141,85,27,99.663,6,1,1,1,1,0,0,Colorado/Walnut Greenbelt,685
+53,Comal Pocket Park,526,18,11,3,6,7,3,0.97071,52,18,11,3,6,7,3,Comal Pocket Park,51
+54,Commons Ford Ranch Metro Park,6529,65,83,109,86,170,468,215.235,4,0,0,0,0,0,2,Commons Ford Ranch Metro Park,983
+55,Conley-Guerrero Senior Activity Center,1885,61,36,27,5,11,11,2.43782134,62,25,14,11,2,4,4,Conley-Guerrero Senior Activity Center,153
+56,Convict Hill Quarry Neighborhood Park,1960,8,25,15,18,35,41,2.814,51,2,9,5,6,12,14,Convict Hill Quarry Neighborhood Park,144
+57,Cook School Park,1985,30,23,36,16,30,7,7.69,18,3,3,4,2,3,1,Cook School Park,145
+58,Copperfield Neighborhood Park,4623,30,68,64,51,32,3,4.62,54,6,14,13,11,7,0,Copperfield Neighborhood Park,251
+59,Country Club Creek Greenbelt,11548,2273,2829,1580,541,405,231,41.843,187,54,67,37,12,9,5,Country Club Creek Greenbelt,7861
+60,Covert Park at Mount Bonnell,2336,4,7,7,3,16,46,5.54,15,0,1,1,0,2,8,Covert Park at Mount Bonnell,87
+61,Crestland Triangle,1690,5,16,31,5,12,9,0.457,177,12,35,68,12,26,21,Crestland Triangle,81
+62,Cunningham School Park,2003,16,25,17,18,20,10,3.55,30,4,7,4,5,5,3,Cunningham School Park,109
+63,Davis Hill Neighborhood Park,4751,33,81,56,59,49,32,8.36,37,3,9,6,7,5,3,Davis Hill Neighborhood Park,313
+64,Davis Spring Special Park,3396,15,36,33,13,58,71,14.472,15,1,2,2,0,4,4,Davis Spring Special Park,228
+65,Davis/White Northeast Neighborhood Park,2808,21,43,18,12,10,2,19.55157,5,1,2,0,0,0,0,Davis/White Northeast Neighborhood Park,108
+66,Decker Tallgrass Prairie Preserve,265,0,6,10,9,6,1,347.9910643,0,0,0,0,0,0,0,Decker Tallgrass Prairie Preserve,34
+67,Deer Park at Maple Run Preserve,7029,54,104,152,133,223,121,24.278,32,2,4,6,5,9,5,Deer Park at Maple Run Preserve,790
+68,Dick Nichols District Park,7969,107,240,265,275,427,273,140.1464,11,0,1,1,1,3,1,Dick Nichols District Park,1589
+69,Doss School Park,773,12,18,11,5,14,23,6.2,13,1,2,1,0,2,3,Doss School Park,84
+70,Dottie Jordan Neighborhood Park,1933,62,71,63,44,45,28,11.45,27,5,6,5,3,3,2,Dottie Jordan Neighborhood Park,315
+71,Dougherty Arts Center,3403,36,23,29,24,42,42,2.3400354,85,15,10,12,10,18,18,Dougherty Arts Center,199
+72,Dove Springs District Park,1853,30,97,61,48,19,23,59.001,4,0,1,1,0,0,0,Dove Springs District Park,280
+73,Downs Mabson Fields,1670,73,53,35,31,63,25,9.97,28,7,5,3,3,6,2,Downs Mabson Fields,281
+74,Dry Creek Greenbelt,4044,180,227,230,151,146,102,6.1149,169,29,37,37,24,23,16,Dry Creek Greenbelt,1039
+75,Duncan Neighborhood Park,5947,42,46,65,41,77,129,5.91,68,7,7,11,6,13,21,Duncan Neighborhood Park,402
+76,Earl J. Pomerleau Pocket Park,1247,61,37,14,8,5,2,1.927,66,31,19,7,4,2,1,Earl J. Pomerleau Pocket Park,128
+77,East Boggy Creek Greenbelt,5476,806,518,444,351,172,125,75.1792,32,10,6,5,4,2,1,East Boggy Creek Greenbelt,2418
+78,East Bouldin Creek Greenbelt,12933,927,729,826,654,923,1014,0.652,7787,1423,1119,1268,1003,1416,1556,East Bouldin Creek Greenbelt,5077
+79,Eastwoods Neighborhood Park,1862,150,44,45,31,38,53,9.9,36,15,4,4,3,3,5,Eastwoods Neighborhood Park,364
+80,Edward Rendon Sr. Metro Park at Festival Beach,5999,393,411,309,227,518,378,72.86032804,30,5,5,4,3,7,5,Edward Rendon Sr. Metro Park at Festival Beach,2239
+81,Eilers (Deep Eddy) Neighborhood Park,4495,46,45,33,17,26,31,8.976415,22,5,5,3,1,2,3,Eilers (Deep Eddy) Neighborhood Park,201
+82,Elizabet Ney Museum,3446,37,80,55,35,46,72,2.5482,128,14,31,21,13,18,28,Elizabet Ney Museum,328
+83,Ellen Higgins Pocket Park,2236,6,9,14,17,10,6,0.61,109,11,15,24,29,17,11,Ellen Higgins Pocket Park,66
+84,Emma Long Metro Park,9774,144,239,269,127,343,851,1109.27531553,1,0,0,0,0,0,0,Emma Long Metro Park,1975
+85,Forest North Neighborhood Park,953,8,30,45,9,17,12,2.486,49,3,12,18,3,7,5,Forest North Neighborhood Park,123
+86,Gaines Creek Neighborhood Park,4531,25,47,70,63,87,149,37.92,11,0,1,1,1,2,3,Gaines Creek Neighborhood Park,443
+87,Gaines Greenbelt,9423,159,321,449,333,403,467,94.04,22,1,3,4,3,4,4,Gaines Greenbelt,2134
+88,Gaines Park at Barton Creek Greenbelt,4586,69,94,158,127,118,184,6.0148,125,11,15,26,21,19,30,Gaines Park at Barton Creek Greenbelt,752
+89,Garrison District Park,4615,171,230,252,213,208,122,40.0,29,4,5,6,5,5,3,Garrison District Park,1198
+90,George Washington Carver Museum,525,12,3,2,4,3,2,0.29825221,101,42,12,9,13,13,9,George Washington Carver Museum,30
+91,Georgian Acres Neighborhood Park,3074,216,200,87,15,17,0,4.997,107,43,40,17,3,3,0,Georgian Acres Neighborhood Park,537
+92,Gillis Neighborhood Park,2053,63,85,80,48,40,47,7.8,46,8,10,10,6,5,6,Gillis Neighborhood Park,365
+93,Givens District Park,4652,257,215,152,131,72,45,41.43280472,21,6,5,3,3,1,1,Givens District Park,873
+94,Goat Cave Karst Nature Preserve,3369,76,138,162,193,277,71,14.86917361,61,5,9,10,12,18,4,Goat Cave Karst Nature Preserve,919
+95,Govalle Neighborhood Park,1889,37,16,32,23,13,9,26.314,5,1,0,1,0,0,0,Govalle Neighborhood Park,132
+96,Gracywoods Neighborhood Park,4857,86,173,93,44,68,31,19.16894226,25,4,9,4,2,3,1,Gracywoods Neighborhood Park,497
+97,Grand Meadow Neighborhood Park,2504,3,32,35,52,43,16,9.926,18,0,3,3,5,4,1,Grand Meadow Neighborhood Park,184
+98,Great Hills Neighborhood Park,9715,395,705,484,526,617,531,76.05124007,42,5,9,6,6,8,6,Great Hills Neighborhood Park,3261
+99,Gregg Hill Pocket Park,1789,13,12,23,5,15,22,1.51,61,8,8,15,3,10,14,Gregg Hill Pocket Park,92
+100,Grey Rock Golf Course,7775,85,264,302,362,886,1613,296.9573,11,0,0,1,1,2,5,Grey Rock Golf Course,3514
+101,Gullett School Park,1454,10,20,13,15,27,20,14.58,7,0,1,0,1,1,1,Gullett School Park,108
+102,"Gustavo ""Gus"" L. Garcia District Park",7319,394,534,391,99,111,170,47.271,35,8,11,8,2,2,3,"Gustavo ""Gus"" L. Garcia District Park",1701
+103,Hall/Goodnight Planting Strip,1022,22,28,8,2,33,16,1.229913,90,18,23,6,2,26,13,Hall/Goodnight Planting Strip,111
+104,Hancock Golf Course,4878,429,344,252,120,168,290,51.83,30,8,6,4,2,3,5,Hancock Golf Course,1606
+105,Harpers Branch Creek Greenbelt,11864,1219,1335,974,759,1104,920,1.6919,3731,720,789,575,448,652,544,Harpers Branch Creek Greenbelt,6313
+106,Harris Branch Neighborhood Park,1758,3,6,10,9,16,8,10.01,5,0,0,1,0,1,0,Harris Branch Neighborhood Park,55
+107,Harris Triangle,665,3,4,1,5,4,18,0.18,209,21,23,7,29,23,104,Harris Triangle,37
+108,Hartford Planting Strip,1048,4,8,5,2,16,37,1.8588,40,2,4,3,1,9,20,Hartford Planting Strip,75
+109,Hartford Triangle,1048,2,5,2,1,6,19,0.6,62,3,9,4,1,10,32,Hartford Triangle,37
+110,Haskell House,1216,20,30,6,8,10,27,0.2405,430,86,125,25,35,42,115,Haskell House,103
+111,Heath Eiland and Morgan Moss BMX Skate Park,5366,5,6,6,3,7,11,1.3186,31,4,5,5,2,5,8,Heath Eiland and Morgan Moss BMX Skate Park,41
+112,Heritage Oaks Neighborhood Park,3236,144,143,78,36,34,18,3.527,129,41,40,22,10,9,5,Heritage Oaks Neighborhood Park,455
+113,Hielscher Tract Greenbelt,8265,80,159,232,275,714,1250,66.58,40,1,2,3,4,10,18,Hielscher Tract Greenbelt,2712
+114,Highland Neighborhood Park,2231,6,14,11,9,4,3,0.241,204,27,58,47,39,18,12,Highland Neighborhood Park,49
+115,Hill School Park,1067,10,22,26,6,13,16,5.51,17,1,4,4,1,2,2,Hill School Park,95
+116,Holly Shores at Town Lake Metro Park,3707,80,112,76,13,73,41,17.619,22,4,6,4,0,4,2,Holly Shores at Town Lake Metro Park,398
+117,Houston School Park,1245,40,39,13,17,13,5,8.74,14,4,4,1,2,1,0,Houston School Park,129
+118,Hubert C. Schroeter Neighborhood Park,2938,22,109,75,42,55,83,12.08,32,1,9,6,3,4,6,Hubert C. Schroeter Neighborhood Park,387
+119,International Shores at Town Lake Metro Park,2594,43,119,79,79,167,45,6.06263555,88,7,19,13,13,27,7,International Shores at Town Lake Metro Park,534
+120,J.J. Seabrook Greenbelt,8300,777,711,563,404,486,389,2.90116414,1149,268,245,194,139,167,134,J.J. Seabrook Greenbelt,3334
+121,Janet Long Fish Park,2758,106,415,425,266,216,106,27.872,55,3,14,15,9,7,3,Janet Long Fish Park,1537
+122,Jimmy Clay Golf Course,6456,288,508,371,273,125,110,203.11864411,8,1,2,1,1,0,0,Jimmy Clay Golf Course,1678
+123,John Trevino Jr. Metro Park at Morrison Ranch,5283,156,285,226,199,168,55,330.22,3,0,0,0,0,0,0,John Trevino Jr. Metro Park at Morrison Ranch,1092
+124,Joslin Neighborhood Park,3817,38,44,50,25,32,22,5.89,36,6,7,8,4,5,3,Joslin Neighborhood Park,214
+125,Kealing School Park,1007,63,19,14,20,19,14,14.91436275,10,4,1,0,1,1,0,Kealing School Park,151
+126,Kendra Page Neighborhood Park,2176,92,105,79,67,26,5,15.2491,24,6,6,5,4,1,0,Kendra Page Neighborhood Park,376
+127,Kennemer Pool,2257,46,36,20,10,10,4,1.04,123,44,35,19,9,10,4,Kennemer Pool,128
+128,Lakeline Neighborhood Park,2490,59,169,149,92,125,15,10.45,58,5,16,14,8,11,1,Lakeline Neighborhood Park,611
+129,Lakeshore at Town Lake Metro Park,2118,71,64,35,10,54,22,3.28252585,78,21,19,10,3,16,6,Lakeshore at Town Lake Metro Park,259
+130,Lamar Beach at Town Lake Metro Park,9953,278,320,404,231,334,450,65.40901382,30,4,4,6,3,5,6,Lamar Beach at Town Lake Metro Park,2018
+131,Lamar Senior Activity Center,1504,46,11,2,9,1,5,1.876,40,24,6,1,4,0,2,Lamar Senior Activity Center,75
+132,Latta Branch Greenbelt,20482,858,1762,1848,1781,2551,2153,126.41990405,86,6,13,14,14,20,17,Latta Branch Greenbelt,10956
+133,Lawrence Street Pocket Park,1941,30,24,21,2,3,3,0.9854,86,30,24,22,2,3,3,Lawrence Street Pocket Park,85
+134,Legend Oaks Neighborhood Park,1903,6,20,14,23,38,55,7.3,21,0,2,1,3,5,7,Legend Oaks Neighborhood Park,158
+135,Little Stacy Neighborhood Park,2312,38,45,72,51,66,88,6.7793,53,5,6,10,7,9,12,Little Stacy Neighborhood Park,362
+136,Little Walnut Creek Greenbelt,12004,1170,1137,708,542,404,249,205.806,20,5,5,3,2,1,1,Little Walnut Creek Greenbelt,4213
+137,Little Zilker Neighborhood Park,2204,27,45,80,37,64,96,4.57,77,6,9,17,8,14,21,Little Zilker Neighborhood Park,352
+138,Longhorn Shores at Town Lake Metro Park,1387,71,56,30,4,40,18,10.63606158,20,6,5,2,0,3,1,Longhorn Shores at Town Lake Metro Park,221
+139,Longview Neighborhood Park,2604,18,30,60,42,42,3,20.056,9,0,1,3,2,2,0,Longview Neighborhood Park,198
+140,Lott Pocket Park,876,25,7,6,8,8,6,1.12485569,55,22,7,5,7,7,5,Lott Pocket Park,62
+141,Louis RenÃ© Barrera Indiangrass Wildlife Sanctuary,265,1,11,18,17,11,3,290.6231989,0,0,0,0,0,0,0,Louis RenÃ© Barrera Indiangrass Wildlife Sanctuary,62
+142,Lower Bull Creek Greenbelt,10934,446,726,695,658,794,1595,115.454,42,3,6,6,5,6,13,Lower Bull Creek Greenbelt,4917
+143,Lucy Read School Park,662,49,21,13,28,17,15,5.14,28,9,4,2,5,3,3,Lucy Read School Park,146
+144,MLK Station Neighborhood Park,2093,87,57,57,52,87,28,7.917,47,11,7,7,6,11,3,MLK Station Neighborhood Park,372
+145,Mabel Davis District Park,4243,358,687,379,195,95,52,53.97237583,32,6,12,7,3,1,0,Mabel Davis District Park,1769
+146,Maggie Boatright Area of the Bull Creek Greenbelt,3297,20,43,38,51,66,368,8.986,65,2,4,4,5,7,40,Maggie Boatright Area of the Bull Creek Greenbelt,589
+147,Manuel and Robert Donley Pocket Park,168,0,4,6,0,2,1,0.3883,40,1,10,15,1,6,5,Manuel and Robert Donley Pocket Park,15
+148,Marble Creek Greenbelt,4898,94,229,268,244,235,91,105.78,11,0,2,2,2,2,0,Marble Creek Greenbelt,1163
+149,Marble Creek Neighborhood Park,3743,3,11,15,13,13,5,8.511,7,0,1,1,1,1,0,Marble Creek Neighborhood Park,63
+150,Margaret Hoffman Oak Park,3324,5,5,7,5,13,25,0.2208668,281,23,26,32,24,58,115,Margaret Hoffman Oak Park,62
+151,Mary Dawson Pocket Park,2502,14,5,9,5,16,13,0.92,70,15,5,9,6,18,14,Mary Dawson Pocket Park,64
+152,Mary Frances Baylor Clarksville Pocket Park,1667,30,41,5,4,6,23,1.48911304,75,20,28,3,3,4,15,Mary Frances Baylor Clarksville Pocket Park,111
+153,Mary Moore Searight Metro Park,14349,808,1505,1383,1190,1344,495,342.65952,19,2,4,4,3,3,1,Mary Moore Searight Metro Park,6728
+154,Mayfield Park,2854,17,22,8,21,25,111,23.331,8,0,0,0,0,1,4,Mayfield Park,207
+155,Meadowview Triangle,904,6,17,31,6,11,9,0.41758451,198,14,42,75,14,28,22,Meadowview Triangle,82
+156,Metz Neighborhood Park,1464,15,49,32,5,29,14,6.54525012,22,2,7,4,0,4,2,Metz Neighborhood Park,146
+157,Michael Butler Park at Town Lake Metro Park,7827,37,40,54,33,58,63,20.299373,14,1,1,2,1,2,3,Michael Butler Park at Town Lake Metro Park,288
+158,Michael Butler Shores at Town Lake Metro Park,5671,41,56,102,64,93,121,28.65,16,1,1,3,2,3,4,Michael Butler Shores at Town Lake Metro Park,480
+159,Millennium Center,852,71,39,18,2,6,10,5.5415,26,12,7,3,0,1,1,Millennium Center,147
+160,Montopolis Neighborhood Park,1282,189,15,50,51,31,19,7.61,47,24,2,6,6,4,2,Montopolis Neighborhood Park,358
+161,Montopolis Practice Fields,2427,92,75,61,10,13,9,4.11,63,22,18,14,2,3,2,Montopolis Practice Fields,262
+162,Morris Williams Golf Course,5250,345,311,239,175,155,163,187.793,7,1,1,1,0,0,0,Morris Williams Golf Course,1391
+163,Mountain View Neighborhood Park,1163,3,6,4,13,15,78,8.273,14,0,0,0,1,1,9,Mountain View Neighborhood Park,123
+164,Murchison Pool,2354,14,19,9,8,10,11,1.15,65,12,16,8,7,9,10,Murchison Pool,75
+165,Musket Valley Neighborhood Park,5147,21,32,46,19,27,16,15.91,10,1,2,2,1,1,1,Musket Valley Neighborhood Park,164
+166,Nicholas Dawson Neighborhood Park,2301,35,45,50,22,48,41,3.1977,76,11,14,15,7,15,13,Nicholas Dawson Neighborhood Park,245
+167,Norman School Park,1040,21,10,7,8,3,0,6.9,7,3,1,1,1,0,0,Norman School Park,51
+168,North Acres Greenbelt,12178,1237,1527,900,244,328,284,2.456,1840,503,621,366,99,133,115,North Acres Greenbelt,4521
+169,North Cat Mountain Greenbelt,10285,216,362,437,342,624,1464,30.71661354,112,7,11,14,11,20,47,North Cat Mountain Greenbelt,3447
+170,North Oaks Neighbohood Park,1515,42,62,36,47,33,33,4.616,55,9,13,7,10,7,7,North Oaks Neighbohood Park,255
+171,North Star Greenbelt,10354,804,1534,1260,711,881,413,17.61856003,318,45,87,71,40,50,23,North Star Greenbelt,5605
+172,Northern Walnut Creek Greenbelt,44300,3246,5651,5545,3141,3337,1801,387.40866616,58,8,14,14,8,8,4,Northern Walnut Creek Greenbelt,22723
+173,Northwest Balcones Neighborhood Park,1844,2,19,9,23,29,64,7.17204959,20,0,2,1,3,4,9,Northwest Balcones Neighborhood Park,148
+174,Northwest Recreation Center,1883,11,16,23,21,29,54,6.66585983,23,1,2,3,3,4,8,Northwest Recreation Center,156
+175,Norwood Tract at Town Lake Metro Park,4800,76,76,74,50,117,127,9.52917438,54,7,8,7,5,12,13,Norwood Tract at Town Lake Metro Park,523
+176,Oak Springs School Park,1485,29,27,15,5,6,5,6.13,14,4,4,2,0,1,0,Oak Springs School Park,90
+177,Oak View Neighborhood Park,1753,14,21,16,26,59,118,6.975217,36,2,3,2,3,8,17,Oak View Neighborhood Park,256
+178,Oakhill Neighborhood Park,2435,5,6,15,13,28,54,14.495,8,0,0,1,0,1,3,Oakhill Neighborhood Park,123
+179,Odom School Park,2565,40,39,36,18,15,8,4.3,36,9,9,8,4,3,1,Odom School Park,158
+180,Oertli Neighborhood Park,3325,10,26,29,16,25,7,6.0,19,1,4,4,2,4,1,Oertli Neighborhood Park,115
+181,Old Bakery and Emporium,3180,6,6,8,6,14,28,0.31203828,224,20,22,26,19,46,89,Old Bakery and Emporium,70
+182,Old San Antonio District Park,1959,0,0,0,0,0,0,57.683,0,0,0,0,0,0,0,Old San Antonio District Park,0
+183,Old San Antonio Greenbelt,5251,143,323,222,316,413,179,28.33,56,5,11,7,11,14,6,Old San Antonio Greenbelt,1599
+184,Onion Creek Greenbelt,13861,1076,1624,1472,1128,714,296,235.65838265,26,4,6,6,4,3,1,Onion Creek Greenbelt,6312
+185,Onion Creek Metro Park,11558,676,1150,1057,1002,624,285,517.312,9,1,2,2,1,1,0,Onion Creek Metro Park,4797
+186,Onion Creek Soccer Complex,3514,34,40,45,32,16,7,112.46,1,0,0,0,0,0,0,Onion Creek Soccer Complex,177
+187,Onion Creek Wildlife Sanctuary,482,40,31,33,9,21,16,180.0,0,0,0,0,0,0,0,Onion Creek Wildlife Sanctuary,152
+188,Ortega School Park,1449,18,24,13,8,5,8,4.23478002,18,4,5,3,2,1,1,Ortega School Park,79
+189,Palma Plaza Pocket Park,1191,15,25,9,15,17,41,0.2066,609,76,125,44,73,86,203,Palma Plaza Pocket Park,125
+190,Pan American Neighborhood Park,2394,109,77,43,14,30,21,5.22503385,56,20,14,8,2,5,4,Pan American Neighborhood Park,297
+191,Parque Zaragoza Neighborhood Park,2698,59,78,64,21,42,28,15.273,19,3,5,4,1,2,1,Parque Zaragoza Neighborhood Park,293
+192,Pastor Edward Clarence Craig Jr. Neighborhood Park,1586,129,117,53,20,8,3,5.3,62,24,22,10,3,1,0,Pastor Edward Clarence Craig Jr. Neighborhood Park,333
+193,Patterson Neighborhood Park,3039,47,34,49,24,41,49,9.29,26,5,3,5,2,4,5,Patterson Neighborhood Park,246
+194,Payton Gin Pocket Park,3856,46,46,24,7,12,3,0.9709,144,47,47,25,7,13,3,Payton Gin Pocket Park,140
+195,Peace Point at Town Lake Metro Park,1740,69,99,63,35,105,37,5.46668977,75,12,18,11,6,19,6,Peace Point at Town Lake Metro Park,411
+196,Pease District Park,8916,709,290,175,143,194,407,42.68088432,44,16,6,4,3,4,9,Pease District Park,1920
+197,Pecan Springs School Park,779,37,29,9,7,5,5,4.55,21,8,6,1,1,1,1,Pecan Springs School Park,95
+198,Perry Neighborhood Park,1583,2,7,22,4,16,80,10.3933043,12,0,0,2,0,1,7,Perry Neighborhood Park,134
+199,Pickfair Pocket Park,1219,3,1,9,2,7,14,1.237,31,2,1,7,2,5,11,Pickfair Pocket Park,38
+200,Pillow School Park,782,10,14,18,18,14,25,6.62859478,15,1,2,2,2,2,3,Pillow School Park,103
+201,Piney Bend Neighborhood Park,3533,29,73,62,66,43,29,4.335,70,6,16,14,15,10,6,Piney Bend Neighborhood Park,305
+202,Pioneer Crossing Neighborhood Park,2159,18,22,33,16,12,8,17.96,6,1,1,1,0,0,0,Pioneer Crossing Neighborhood Park,111
+203,Ponciana Neighborhood Park,1895,95,93,32,42,32,12,5.179,59,18,17,6,8,6,2,Ponciana Neighborhood Park,308
+204,Quail Creek Neighborhood Park,5349,348,327,115,86,8,15,16.299,55,21,20,7,5,0,0,Quail Creek Neighborhood Park,901
+205,Ramsey Neighborhood Park,2367,48,40,98,17,42,99,5.26800149,65,9,7,18,3,8,18,Ramsey Neighborhood Park,345
+206,Red Bluff Nature Preserve,3302,194,142,99,86,44,28,49.736,11,3,2,1,1,0,0,Red Bluff Nature Preserve,596
+207,Red Bluff Neighborhood Park,2179,34,18,12,13,6,0,7.196,12,4,2,1,1,0,0,Red Bluff Neighborhood Park,86
+208,Red Bud Isle,2810,57,36,28,26,25,62,17.49307899,13,3,2,1,1,1,3,Red Bud Isle,236
+209,Reed Neighborhood Park,713,9,8,8,15,26,79,6.35935429,23,1,1,1,2,4,12,Reed Neighborhood Park,147
+210,Reilly School Park,787,22,26,23,10,7,5,9.86,9,2,2,2,1,0,0,Reilly School Park,95
+211,Republic Square,2521,8,9,11,9,22,43,1.748,59,4,5,6,5,12,24,Republic Square,104
+212,Riata Neighborhood Park,2540,11,51,33,41,54,43,8.08,29,1,6,4,5,6,5,Riata Neighborhood Park,235
+213,Ricky Guerrero Neighborhood Park,2753,20,8,17,4,9,22,1.90776495,43,10,4,9,2,4,11,Ricky Guerrero Neighborhood Park,82
+214,Rinard Creek Greenbelt,5403,154,485,284,370,408,170,22.633,82,6,21,12,16,18,7,Rinard Creek Greenbelt,1873
+215,Roberta Crenshaw Overlook at Shoal Beach at Town Lake Metro Park,5588,14,9,11,6,21,46,1.63434011,67,8,5,7,3,13,28,Roberta Crenshaw Overlook at Shoal Beach at Town Lake Metro Park,110
+216,Ron Rigsby Pocket Park,1091,42,50,19,14,9,5,0.8357,168,51,60,22,17,10,6,Ron Rigsby Pocket Park,141
+217,Rosewood Neighborhood Park,1603,112,44,41,18,29,37,14.22276674,19,7,3,2,1,2,2,Rosewood Neighborhood Park,283
+218,Roy G. Guerrero Colorado River Metro Park,17467,3281,2469,1741,726,867,476,399.46658273,23,8,6,4,1,2,1,Roy G. Guerrero Colorado River Metro Park,9562
+219,Roy Kizer Golf Course,10073,512,766,646,467,227,143,265.19065743,10,1,2,2,1,0,0,Roy Kizer Golf Course,2763
+220,Ryan Planting Strip,1047,15,20,10,9,19,12,0.24088698,362,65,86,42,37,79,51,Ryan Planting Strip,87
+221,Salt Springs Neighborhood Park,1170,5,6,11,3,3,1,9.45904729,3,0,0,1,0,0,0,Salt Springs Neighborhood Park,32
+222,Sanchez School Park,704,5,16,17,7,8,11,1.3,51,4,12,13,5,6,8,Sanchez School Park,67
+223,Schieffer Tract,2729,62,54,24,16,14,10,4.35596015,41,14,12,5,3,3,2,Schieffer Tract,182
+224,Scofield Farms Neighborhood Park,3785,34,110,104,71,71,59,20.6445,21,1,5,5,3,3,2,Scofield Farms Neighborhood Park,451
+225,Seiders Springs at Shoal Creek Greenbelt,10257,1112,761,822,401,601,1146,4.22,1148,263,180,194,95,142,271,Seiders Springs at Shoal Creek Greenbelt,4846
+226,Sendera Mesa Neighborhood Park,2559,13,26,36,31,56,18,4.61649392,39,2,5,7,6,12,3,Sendera Mesa Neighborhood Park,183
+227,Shinoak Valley Greenbelt,7133,310,615,571,354,651,1108,10.46021446,345,29,58,54,33,62,105,Shinoak Valley Greenbelt,3612
+228,Shipe Neighborhood Park,3446,37,87,64,37,52,61,2.45876512,138,15,35,26,15,21,25,Shipe Neighborhood Park,340
+229,Shoal Beach at Town Lake Metro Park,8392,76,81,112,80,146,231,13.48083855,54,5,6,8,5,10,17,Shoal Beach at Town Lake Metro Park,729
+230,Shoal Creek Greenbelt,37905,6161,3395,3377,1987,3098,5190,80.67868635,287,76,42,41,24,38,64,Shoal Creek Greenbelt,23211
+231,Silk Oak Neighborhood Park,1970,55,50,56,54,73,66,17.68232301,20,3,2,3,3,4,3,Silk Oak Neighborhood Park,357
+232,Sir Swante Palm Neighborhood Park,4471,57,39,39,26,69,134,3.24240255,113,17,12,12,8,21,41,Sir Swante Palm Neighborhood Park,366
+233,Slaughter Creek Greenbelt,10276,577,1057,960,929,1110,435,73.780646,68,7,14,13,12,15,5,Slaughter Creek Greenbelt,5071
+234,South Austin Island,1912,16,8,8,12,14,11,0.06846614,1054,246,122,120,189,211,163,South Austin Island,72
+235,South Austin Neighborhood Park,2491,65,64,71,51,42,69,12.27,29,5,5,5,4,3,5,South Austin Neighborhood Park,365
+236,South Austin Senior Activity Center,3497,99,86,76,53,83,51,4.63,97,21,18,16,11,17,11,South Austin Senior Activity Center,450
+237,South Austin Tennis Center,1835,63,64,73,54,36,62,12.05,29,5,5,6,4,2,5,South Austin Tennis Center,354
+238,South Boggy Creek Greenbelt,22728,1381,3186,2561,1513,927,455,29.853245,335,46,106,85,50,31,15,South Boggy Creek Greenbelt,10026
+239,South Boggy Creek Greenbelt,22728,1381,3186,2561,1513,927,455,8.54716954,1173,161,372,299,177,108,53,South Boggy Creek Greenbelt,10026
+240,Southern Walnut Creek Greenbelt,16864,1002,1508,768,549,385,128,601.16025764,7,1,2,1,0,0,0,Southern Walnut Creek Greenbelt,4342
+241,Sparky Pocket Park,1064,44,28,23,4,4,4,0.4550046,242,97,63,52,10,9,9,Sparky Pocket Park,110
+242,Springdale Neighborhood Park,1739,87,55,28,25,16,0,16.36640913,13,5,3,1,1,1,0,Springdale Neighborhood Park,213
+243,Springwoods Neighborhood Park,3424,37,121,97,81,65,7,12.45145586,33,2,9,7,6,5,0,Springwoods Neighborhood Park,411
+244,St. Edwards Greenbelt,2419,16,44,62,61,55,281,79.8,6,0,0,0,0,0,3,St. Edwards Greenbelt,521
+245,St. Elmo School Park,1451,20,26,16,11,15,5,5.51527426,17,3,4,2,2,2,0,St. Elmo School Park,96
+246,St. John Pocket Park,881,23,10,6,4,7,2,0.97,57,24,11,6,5,7,2,St. John Pocket Park,55
+247,Steck Valley Greenbelt,12665,579,1077,816,748,726,1086,38.35643094,131,15,28,21,19,18,28,Steck Valley Greenbelt,5034
+248,Stephenson Nature Preserve & Outdoor Education Center,7657,218,379,438,322,362,122,147.282,12,1,2,2,2,2,0,Stephenson Nature Preserve & Outdoor Education Center,1843
+249,Stillhouse Hollow Nature Preserve,5204,75,147,104,166,126,325,19.8278,47,3,7,5,8,6,16,Stillhouse Hollow Nature Preserve,945
+250,Stratford Overlook Greenbelt,4683,361,227,219,217,345,942,0.07,33068,5170,3256,3135,3107,4931,13467,Stratford Overlook Greenbelt,2314
+251,Swede Hill Pocket Park,351,8,4,5,5,5,8,0.5694,67,14,8,8,10,10,14,Swede Hill Pocket Park,38
+252,Symphony Square,3180,5,6,7,5,13,26,0.484,133,11,13,15,11,27,53,Symphony Square,64
+253,T.A. Brown Neighborhood Park,2659,38,81,137,27,51,40,2.29,164,16,35,60,12,22,17,T.A. Brown Neighborhood Park,377
+254,Tahoe Trail Pocket Park,1628,10,26,22,4,11,3,0.308,258,35,85,71,14,38,11,Tahoe Trail Pocket Park,79
+255,Tanglewood Neighborhood Park,2916,32,56,30,22,85,101,14.1402,23,2,3,2,1,6,7,Tanglewood Neighborhood Park,328
+256,Tannehill Branch Greenbelt,7379,689,517,512,307,442,472,4.504,652,153,114,113,68,98,104,Tannehill Branch Greenbelt,2940
+257,Tarrytown Neighborhood Park,1048,9,12,17,7,55,86,2.2502,84,4,5,7,3,24,38,Tarrytown Neighborhood Park,189
+258,The Circle Greenbelt,12197,848,711,863,538,909,1126,1.208,4137,702,589,714,445,753,932,The Circle Greenbelt,4998
+259,Tom Lasseter-South Lamar Neighborhood Park,1577,39,33,44,43,76,57,2.084,141,18,15,21,20,36,27,Tom Lasseter-South Lamar Neighborhood Park,294
+260,Trailhead Neighborhood Park,5819,8,22,27,23,35,113,13.63828257,16,0,1,2,1,2,8,Trailhead Neighborhood Park,230
+261,Triangle Commons Neighborhood Park,1795,81,77,54,43,51,35,6.05,56,13,12,9,7,8,5,Triangle Commons Neighborhood Park,343
+262,Umlauf Sculpture Garden,3328,20,32,59,34,54,70,7.8449,34,2,4,7,4,6,9,Umlauf Sculpture Garden,272
+263,Upper Bull Creek Greenbelt,19672,367,778,635,588,966,2243,181.7298694,30,2,4,3,3,5,12,Upper Bull Creek Greenbelt,5580
+264,Veterans Pocket Park,2877,11,9,5,2,2,2,0.67361979,49,16,14,7,3,3,3,Veterans Pocket Park,33
+265,Vic Mathias Shores at Town Lake Metro Park,5227,12,29,29,13,26,37,5.76681669,25,2,5,5,2,4,6,Vic Mathias Shores at Town Lake Metro Park,149
+266,Waller Beach at Town Lake Metro Park,7624,284,130,165,69,261,518,28.80830482,49,9,4,5,2,9,17,Waller Beach at Town Lake Metro Park,1431
+267,Waller Creek Greenbelt,15207,1265,975,991,715,1277,1839,4.25945033,1658,297,229,232,168,299,431,Waller Creek Greenbelt,7065
+268,Walnut Creek Metro Park,17950,930,2009,1725,994,1086,565,290.52051343,25,3,6,5,3,3,1,Walnut Creek Metro Park,7313
+269,Walnut Creek Sports Park,7509,217,412,151,53,106,23,227.96811979,4,0,1,0,0,0,0,Walnut Creek Sports Park,965
+270,Walsh Boat Landing,2045,16,14,13,35,15,89,3.92369047,47,4,3,3,9,4,22,Walsh Boat Landing,185
+271,Walter E. Long Metro Park,7554,595,687,606,322,344,162,1885.44189589,1,0,0,0,0,0,0,Walter E. Long Metro Park,2718
+272,Waterloo Neighborhood Park,3180,35,38,34,23,45,70,10.0212,24,3,3,3,2,4,6,Waterloo Neighborhood Park,246
+273,Wells Creek Greenbelt,11713,441,870,964,684,639,491,9.18,445,48,94,105,74,69,53,Wells Creek Greenbelt,4091
+274,West Austin Neighborhood Park,3331,61,84,117,35,57,92,3.31956766,135,18,25,35,10,17,27,West Austin Neighborhood Park,449
+275,West Bouldin Creek Greenbelt,16808,1069,887,976,777,1181,1322,16.86731362,368,63,52,57,46,70,78,West Bouldin Creek Greenbelt,6214
+276,Westcreek Pocket Park,1388,5,16,15,7,20,14,1.293,62,4,12,12,5,16,11,Westcreek Pocket Park,80
+277,Westenfield Neighborhood Park,2073,40,39,57,40,26,130,4.94370761,67,8,8,11,8,5,26,Westenfield Neighborhood Park,334
+278,William H. Russell Karst Preserve,6580,145,211,276,269,416,205,190.921,7,0,1,1,1,2,1,William H. Russell Karst Preserve,1524
+279,Williams School Park,1789,15,19,28,20,2,2,9.892,8,1,2,2,2,0,0,Williams School Park,88
+280,Williamson Creek Central Greenbelt,25790,2542,3700,2822,1910,1757,884,91.22899701,149,27,40,30,20,19,9,Williamson Creek Central Greenbelt,13617
+281,Williamson Creek East Greenbelt,14112,2015,2678,1808,1361,677,264,87.28068991,100,23,30,20,15,7,3,Williamson Creek East Greenbelt,8805
+282,Williamson Creek West Greenbelt,15223,525,1006,1277,899,1256,1044,76.25644663,78,6,13,16,11,16,13,Williamson Creek West Greenbelt,6010
+283,Wooldridge School Park,2115,56,63,39,25,16,6,9.06898355,22,6,6,4,2,1,0,Wooldridge School Park,206
+284,Wooldridge Square,2521,8,9,11,8,21,43,1.7488,59,4,5,6,5,12,24,Wooldridge Square,104
+285,Wooten Neighborhood Park,3196,54,102,84,34,34,11,6.28,51,8,16,13,5,5,1,Wooten Neighborhood Park,321
+286,Wunneburger Neighborhood Park,1959,0,1,1,1,1,1,23.51,0,0,0,0,0,0,0,Wunneburger Neighborhood Park,8
+287,Yates Pocket Park,2328,26,7,8,7,4,1,0.9338,59,27,7,8,7,5,1,Yates Pocket Park,55
+288,Yett Creek Neighborhood Park,3953,14,80,86,135,114,133,40.545,13,0,1,2,3,2,3,Yett Creek Neighborhood Park,565
+289,Zilker Metro Park,18399,1169,1374,1249,997,1401,1873,307.84906621,26,3,4,4,3,4,6,Zilker Metro Park,8064
+290,Zilker Nature Preserve,5665,113,98,90,74,77,160,77.39090711,7,1,1,1,0,1,2,Zilker Nature Preserve,615
